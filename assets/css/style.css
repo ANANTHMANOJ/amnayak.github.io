@@ -1,12 +1,6 @@
 
 
-/*
-Author: XpeedStudio
-Author URI: http://themeforest.net/user/XpeedStudio/portfolio
-*/
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+
 html,
 body {
     background-color: #ffffff;
@@ -769,11 +763,11 @@ textarea::-ms-input-placeholder
 .home{
    /* background: url(../images/amn.png) no-repeat center top fixed;*/
     
-    width: 100%;
+    width: auto;
     overflow: hidden;
 }
 .home #amn{
-	 width: 100%;
+	 width: auto;
 	max-width: none;
 	position: fixed;
 	top: 0%;
